@@ -172,7 +172,7 @@ def move(x1, y1, x2, y2):
                 # message = client.messages.create(
                 # body='你在動!!',
                 # from_='+12014743791',
-                # to='+886961171766'
+                # to=PHONE_NUM
                 # )
                 # print(message.sid)
 
